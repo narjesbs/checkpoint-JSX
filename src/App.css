@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.title-red{
+  color: rgb(122, 9, 9);
+  font-size: 100px;
+  font-family: fantasy,monospace; 
+}
+
+img{
+  width: 75%;
+  height: 700px;
+}
